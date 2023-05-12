@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>การดำเนินการนี้จะอนุญาตให้ Instagram ซิงค์งานกิจกรรมไปยังปฏิทินของคุณ</string>
+	<key>NSCameraUsageDescription</key>
+	<string>การให้สิทธิ์นี้ช่วยให้คุณสามารถถ่ายภาพและบันทึกวิดีโอได้</string>
+	<key>NSContactsUsageDescription</key>
+	<string>การตั้งค่านี้จะช่วยให้คุณและผู้อื่นค้นหาเพื่อนและอื่นๆ ได้ ผู้ติดต่อของคุณจะถูกซิงค์และจัดก็บไว้ในเซิร์ฟเวอร์ของ Instagram อย่างปลอดภัย</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>เปิดใช้งาน Face ID เพื่อการยืนยันตัวตนที่รวดเร็วและปลอดภัยบน Instagram</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram ใช้การตั้งค่านี้เพื่อให้คุณสมบัติบางอย่างทำงาน กำหนดเนื้อหาเฉพาะของตน ช่วยผู้คนค้นหาสถานที่และอื่นๆ คุณสามารถเปลี่ยนการตั้ืงค่านี้ได้ในภายหลังในการตั้งค่าของโทรศัพท์</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram ใช้การตั้งค่านี้เพื่อให้คุณสมบัติบางอย่างทำงาน กำหนดเนื้อหาเฉพาะของตน ช่วยผู้คนค้นหาสถานที่และอื่นๆ คุณสามารถเปลี่ยนการตั้ืงค่านี้ได้ในภายหลังในการตั้งค่าของโทรศัพท์</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>การให้สิทธิ์นี้ช่วยให้คุณบันทึกวิดีโอพร้อมเสียงได้</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>ตัวเลือกนี้จะอนุญาตให้คุณบันทึกรูปภาพและวิดีโอลงในม้วนฟิล์ม</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>สิ่งนี้ช่วยให้คุณสามารถแชร์จากกล้องถ่ายรูปของคุณ และเปิดใช้งานคุณสมบัติอื่นๆ สำหรับรูปภาพและวิดีโอ</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>วิธีนี้ช่วยให้ Instagram มอบประสบการณ์โฆษณาที่ดีขึ้นแก่คุณ</string>
+</dict>
+</plist>

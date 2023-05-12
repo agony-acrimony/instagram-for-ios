@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>これによりイベントをカレンダーに同期することをInstagramに許可します。</string>
+	<key>NSCameraUsageDescription</key>
+	<string>これにより、写真や動画を撮影できるようになります。</string>
+	<key>NSContactsUsageDescription</key>
+	<string>これはFacebookでの友達の検索などに使用されます。連絡先は同期され、Instagramサーバーに安全に保管されます。</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face IDをオンにして、Instagramで簡単に安全な認証を行えます。</string>
+	<key>NSLocationUsageDescription</key>
+	<string>これはInstagramの一部の機能の使用やコンテンツのパーソナライズ、場所などの検索に必要となります。この設定は携帯電話の設定でいつでも変更できます。</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>これはInstagramの一部の機能の使用やコンテンツのパーソナライズ、場所などの検索に必要となります。この設定は携帯電話の設定でいつでも変更できます。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>これにより、動画を音声付きで撮影できるようになります。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>これにより、カメラロールに写真や動画を保存できるようになります。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>これにより、カメラロールのコンテンツをシェアしたり、写真や動画に関する他の機能を利用できるようになります。</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>これにより、Instagramでより優れた広告エクスペリエンスを提供できます。</string>
+</dict>
+</plist>

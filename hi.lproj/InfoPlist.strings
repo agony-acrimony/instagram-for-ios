@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>इससे आपके Instagram ईवेंट आपके कैलेंडर से सिंक होने लगेंगे.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>इससे आप फ़ोटो भी ले सकते हैं और वीडियो भी रिकॉर्ड कर सकते हैं.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>इससे आपको और अन्य लोगों को दोस्तों आदि को ढूँढने में मदद मिलती है. आपके संपर्क सिंक किए जाएँगे और Instagram के सर्वर पर सुरक्षित ढंग से स्टोर किए जाएँगे.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Instagram पर तेज़ और सुरक्षित ऑथेंटिकेशन के लिए Face ID चालू करें.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram इसका उपयोग कुछ फ़ीचर को एक्टिव करने, कंटेंट को पर्सनलाइज़ करने, जगह ढूँढने में लोगों की मदद आदि करने के लिए करता है. आप इसे बाद में अपने फ़ोन की सेटिंग में कभी भी बदल सकते हैं.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram इसका उपयोग कुछ फ़ीचर को एक्टिव करने, कंटेंट को पर्सनलाइज़ करने, जगह ढूँढने में लोगों की मदद आदि करने के लिए करता है. आप इसे बाद में अपने फ़ोन की सेटिंग में कभी भी बदल सकते हैं.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>इससे आप साउंड के साथ वीडियो रिकॉर्ड कर सकते हैं.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>इससे आप अपने कैमरा रोल में फ़ोटो और वीडियो सेव कर सकते हैं.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>इससे आप अपने कैमरा रोल से साझा कर सकते हैं और फ़ोटो और वीडियो के लिए अन्य सुविधाएँ सक्षम कर सकते हैं</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>इससे Instagram आपको बेहतर व‍िज्ञापन अनुभव दे सकता है.</string>
+</dict>
+</plist>

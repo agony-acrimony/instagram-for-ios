@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This will let Instagram sync events to your calendar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This lets you take photos and record video.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This helps you and others find friends and more. Your contacts will be synced and securely stored on Instagram's servers.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Enable Face ID for quick and secure authentication on Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phone’s settings.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phone’s settings.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This lets you record videos with sound.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This lets you save photos and videos to your Camera Roll.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This lets you share from your camera roll, and enables other features for photos and videos.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This allows Instagram to provide you with a better ads experience.</string>
+</dict>
+</plist>

@@ -1,0 +1,118 @@
+{
+  "_signature": "// @generated _GENERATED_GRAPHQL_ Created by rebuild-graphql/incremental-persist",
+  "data": {
+    "IGAPIRewriteCameraSpecificTray": {
+      "OSSPersistId": "3725481934240314",
+      "usecase": null
+    },
+    "IGAPIRewriteSelfieStickerEffects": {
+      "OSSPersistId": "3960837547297189",
+      "usecase": null
+    },
+    "IGARFetchCapabilityLatestVersionQuery": {
+      "OSSPersistId": "2692713427508326",
+      "usecase": null
+    },
+    "IGARModelMetadataQuery": {
+      "OSSPersistId": "2867297720005553",
+      "usecase": null
+    },
+    "IGAvatarAREffectQuery": {
+      "OSSPersistId": "3909435725843069",
+      "usecase": null
+    },
+    "IGAvatarStatusQuery": {
+      "OSSPersistId": "5136970723011073",
+      "usecase": null
+    },
+    "IGChainingCamera": {
+      "OSSPersistId": "3972267222833658",
+      "usecase": null
+    },
+    "IGGetMessengerRooms": {
+      "OSSPersistId": "5019553028119534",
+      "usecase": null
+    },
+    "IGInsightsPostInsightsQuery": {
+      "OSSPersistId": "3314405828587448",
+      "usecase": null
+    },
+    "IGInsightsProductInsightsPageViewsFromCreatorsListSurfaceQuery": {
+      "OSSPersistId": "2383894231721083",
+      "usecase": null
+    },
+    "IGInsightsProductInsightsPageViewsFromPostsGridSurfaceQuery": {
+      "OSSPersistId": "2556468304418960",
+      "usecase": null
+    },
+    "IGInsightsProductInsightsPageViewsFromStoriesGridSurfaceQuery": {
+      "OSSPersistId": "2448980355138308",
+      "usecase": null
+    },
+    "IGInsightsStoryInsightsQuery": {
+      "OSSPersistId": "3198593450194175",
+      "usecase": null
+    },
+    "IGLocationUpdateMutation": {
+      "OSSPersistId": "2677309642308321",
+      "usecase": null
+    },
+    "IGMonetizationEligibilityAppealMutation": {
+      "OSSPersistId": "2126318284153100",
+      "usecase": null
+    },
+    "IGProConnectFBPageFlowAdminedPagesQuery": {
+      "OSSPersistId": "2563058620449339",
+      "usecase": null
+    },
+    "IGRoomsEndRoom": {
+      "OSSPersistId": "3073311489462762",
+      "usecase": null
+    },
+    "IGSNPluginInteractiveAnimationQuery": {
+      "OSSPersistId": "4089425954404037",
+      "usecase": null
+    },
+    "IGShowreelNativeInteractiveAnimationQuery": {
+      "OSSPersistId": "3892580197438471",
+      "usecase": null
+    },
+    "IGShowreelNativeQuery": {
+      "OSSPersistId": "2645848628771173",
+      "usecase": null
+    },
+    "IgInsightProductItemInsightsQuery": {
+      "OSSPersistId": "2834478703237871",
+      "usecase": null
+    },
+    "IgInsightsAccountInsightsSurfaceQuery": {
+      "OSSPersistId": "3580765965330207",
+      "usecase": null
+    },
+    "IgInsightsCombinedMediaGridSurfaceQuery": {
+      "OSSPersistId": "2467332516707608",
+      "usecase": null
+    },
+    "IgInsightsPostGridSurfaceQuery": {
+      "OSSPersistId": "3982979355123044",
+      "usecase": null
+    },
+    "IgInsightsStoryGridSurfaceQuery": {
+      "OSSPersistId": "3439632192773586",
+      "usecase": null
+    },
+    "MakeMeetupLink": {
+      "OSSPersistId": "3473723479376915",
+      "usecase": null
+    },
+    "TokenlessPromoteQuery": {
+      "OSSPersistId": "3915169285227923",
+      "usecase": null
+    },
+    "UpdatePromoteAdAccountLinkPreference": {
+      "OSSPersistId": "3558071030935573",
+      "usecase": null
+    }
+  },
+  "version": 1
+}

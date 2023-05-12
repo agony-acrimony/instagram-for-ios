@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Hahayaan nitong i-sync ng Instagram ang mga event sa iyong calendar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Pinahihintulutan ka nito na kumuha ng mga litrato at i-record ang video.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Tinutulungan ka nito at ang ibang tao na maghanap ng mga kaibigan at iba pa. Ang iyong mga contact ay isi-sync at ligtas na mai-store sa mga server ng Instagram.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>I-enable ang Face ID para sa mabilis at secure na pag-authenticate sa Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Ginagamit ng Instagram ito para paganahin ang ilang feature, naka-personalize na nilalaman, tulungan ang mga tao maghanap ng mga lugar at marami pa. Mababago mo palagi ito sa ibang pagkakataon sa iyong mga setting ng telepono.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Ginagamit ng Instagram ito para paganahin ang ilang feature, naka-personalize na nilalaman, tulungan ang mga tao maghanap ng mga lugar at marami pa. Mababago mo palagi ito sa ibang pagkakataon sa iyong mga setting ng telepono.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Pinahihintulutan kang i-record ang mga video na may tunog.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Pinapayagan ka nitong mag-save ng mga litrato at video sa iyong Camera Roll.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Hinahayaan ka nitong makapag-share mula sa iyong camera roll, at ine-enable nito ang iba pang feature para sa mga litrato at video.</string>
+</dict>
+</plist>

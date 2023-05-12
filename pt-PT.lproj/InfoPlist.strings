@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Isto vai permitir que o Instagram sincronize eventos para o teu calendário.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Isto permite-te tirar fotos e gravar vídeo.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Isto ajuda-te a ti e a outras pessoas a encontrar amigos e outras coisas. Os teus contactos vão ser sincronizados e armazenados em segurança nos servidores do Instagram.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Ativa o Face ID para uma autenticação rápida e segura no Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>O Instagram utiliza isto para que algumas funcionalidades funcionem, para personalizar conteúdos, para ajudar as pessoas a encontrarem locais e muito mais. Podes sempre alterar isto mais tarde nas definições do teu telefone.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>O Instagram utiliza isto para que algumas funcionalidades funcionem, para personalizar conteúdos, para ajudar as pessoas a encontrarem locais e muito mais. Podes sempre alterar isto mais tarde nas definições do teu telefone.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Isto permite-te gravar vídeos com som.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Isto permite-te guardar fotos e vídeos no teu rolo da câmara.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>isto permite-te partilhar a partir do rolo da câmara e ativa outras funcionalidades para fotos e vídeos.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Isto permite que o Instagram te forneça uma experiência de anúncios melhorada.</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Így az Instagram szinkronizálni tudja az eseményeket a naptáraddal.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Ez lehetővé teszi fényképek készítését és videók felvételét.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Így te és mások is könnyebben megtalálhatják az ismerősöket. A kapcsolataidat szinkronizáljuk, és biztonságosan tároljuk az Instagram  kiszolgálóin.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>A Face ID bekapcsolása a gyors és biztonságos hitelesítéshez az Instagramon.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Az Instagram ezt bizonyos funkciók működtetéséhez, a tartalom személyre szabásához, emberek és helyek megkereséséhez stb. használja. Később a beállításaid között meg tudod változtatni.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Az Instagram ezt bizonyos funkciók működtetéséhez, a tartalom személyre szabásához, emberek és helyek megkereséséhez stb. használja. Később a beállításaid között meg tudod változtatni.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Ez lehetővé teszi, hogy hanggal vegyél fel videót.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Így a fényképeidet és a videóidat a filmtekercsre mentheted.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Ez lehetővé teszi a filmtekercsről történő megosztást, valamint más fényképes és videós funkciók működését.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Az Instagram ez alapján tud jobb hirdetési élményt biztosítani a számodra.</string>
+</dict>
+</plist>

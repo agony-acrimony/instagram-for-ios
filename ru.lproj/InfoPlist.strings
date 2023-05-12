@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Так Instagram сможет синхронизировать события с вашим календарем.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Вы можете снимать фото и видео.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Так вы и другие люди сможете находить друзей и не только. Ваши контакты будут синхронизироваться и храниться в безопасности на серверах Instagram.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Включите Face ID для быстрой и безопасной аутентификации в Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Это необходимо для работы некоторых функций Instagram, индивидуального подбора контента, помощи в поиске мест и прочего. Этот параметр всегда можно поменять позже в настройках телефона.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Это необходимо для работы некоторых функций Instagram, индивидуального подбора контента, помощи в поиске мест и прочего. Этот параметр всегда можно поменять позже в настройках телефона.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Вы можете записывать видео со звуком.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Это позволяет сохранять фото и видео в Фотопленку.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Вы можете делиться фото из вашей фотопленки и использовать другие функции, связанные с фото и видео.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Так Instagram сможет повысить качество рекламы для вас.</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Thao tác này cho phép Instagram đồng bộ sự kiện với lịch của bạn.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Điều này cho phép bạn chụp ảnh và quay video.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Cài đặt này giúp bạn và người khác tìm thấy bạn bè và các nội dung khác. Danh bạ của bạn sẽ được đồng bộ và lưu trữ an toàn trên máy chủ của Instagram.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Bật Face ID để xác thực nhanh và bảo mật trên Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram sử dụng tùy chọn này để một số tính năng hoạt động, cá nhân hóa nội dung, giúp mọi người tìm địa điểm và v.v. Bạn luôn có thể thay đổi tùy chọn này sau trong cài đặt của điện thoại.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram sử dụng tùy chọn này để một số tính năng hoạt động, cá nhân hóa nội dung, giúp mọi người tìm địa điểm và v.v. Bạn luôn có thể thay đổi tùy chọn này sau trong cài đặt của điện thoại.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Như vậy bạn sẽ quay được video có âm thanh.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Bạn sẽ có thể lưu ảnh và video vào Cuộn camera.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Điều này cho phép bạn chia sẻ từ cuộn camera cũng như bật các tính năng khác cho ảnh và video</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Với cài đặt này, Instagram có thể cung cấp cho bạn trải nghiệm quảng cáo tốt hơn.</string>
+</dict>
+</plist>

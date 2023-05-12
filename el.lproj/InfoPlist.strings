@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Αυτό θα επιτρέψει στο Instagram να συγχρονίσει συμβάντα στο ημερολόγιό σας.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Σας επιτρέπει να τραβάτε φωτογραφίες και βίντεο.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Θα βοηθήσει εσάς και άλλους να βρίσκετε φίλους και να κάνετε πολλά ακόμη. Οι επαφές σας θα συγχρονίζονται και θα αποθηκεύονται με ασφάλεια στους διακομιστές του Instagram.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Ενεργοποιήστε το Face ID για γρήγορο και ασφαλή έλεγχο ταυτότητας στο Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Το Instagram χρησιμοποιεί αυτή τη ρύθμιση για να υποστηρίζει τη λειτουργία ορισμένων δυνατοτήτων, να εξατομικεύει το περιεχόμενο και να βοηθάει τους χρήστες να βρίσκουν τοποθεσίες και άλλα στοιχεία. Μπορείτε να αλλάξετε αυτή τη ρύθμιση αργότερα, από τις ρυθμίσεις του κινητού σας.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Το Instagram χρησιμοποιεί αυτή τη ρύθμιση για να υποστηρίζει τη λειτουργία ορισμένων δυνατοτήτων, να εξατομικεύει το περιεχόμενο και να βοηθάει τους χρήστες να βρίσκουν τοποθεσίες και άλλα στοιχεία. Μπορείτε να αλλάξετε αυτή τη ρύθμιση αργότερα, από τις ρυθμίσεις του κινητού σας.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Σας επιτρέπει να τραβάτε βίντεο με ήχο.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Σας επιτρέπει να αποθηκεύετε φωτογραφίες και βίντεο στο Άλμπουμ κάμερας.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Σας επιτρέπει να κοινοποιείτε περιεχόμενο από το Άλμπουμ κάμερας και ενεργοποιεί άλλες λειτουργίες για τις φωτογραφίες και τα βίντεο.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Αυτό επιτρέπει στο Instagram να σας παρέχει μια καλύτερη εμπειρία διαφημίσεων.</string>
+</dict>
+</plist>

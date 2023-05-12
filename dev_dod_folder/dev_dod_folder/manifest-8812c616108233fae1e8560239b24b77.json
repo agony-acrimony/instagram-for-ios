@@ -1,0 +1,12 @@
+[
+  {
+    "resource": "dod_test",
+    "flavor": "test",
+    "location": "0/0-b026324c6904b2a9cb4b88d6d61c81d1.txt"
+  },
+  {
+    "resource": "i18n_language_packs",
+    "flavor": "test",
+    "location": "1/0-76f7feba19960afe380f7b00d3cd531f.txt"
+  }
+]

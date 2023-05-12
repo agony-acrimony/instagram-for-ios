@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>To će Instagramu omogućiti sinkroniziranje događaja s vašim kalendarom.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Ovo vam omogućuje snimanje fotografija i videozapisa.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Ovo pomaže vama i drugima pronaći prijatelje i još štošta. Vaše kontakte sinkronizirat ćemo i sigurno pohranjivati na Instagramovim poslužiteljima.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Omogućite Face ID (senzor za čitanje lica) za brzu i sigurnu provjeru autentičnosti na Instagramu.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram se ovim služi kako bi omogućio rad nekih funkcija, personalizirao sadržaj, pomogao korisnicima pri traženju mjesta itd. Ovo uvijek možete naknadno promijeniti u postavkama mobitela.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram se ovim služi kako bi omogućio rad nekih funkcija, personalizirao sadržaj, pomogao korisnicima pri traženju mjesta itd. Ovo uvijek možete naknadno promijeniti u postavkama mobitela.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Ovo vam omogućuje snimanje videozapisa sa zvukom.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Ovo vam omogućuje spremanje fotografija i videozapisa u album kamere.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Ovo vam omogućuje dijeljenje snimki iz albuma kamere te dopušta ostale mogućnosti za fotografije i videozapise.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>To omogućuje Instagramu da vam pruži bolji doživljaj oglasa.</string>
+</dict>
+</plist>

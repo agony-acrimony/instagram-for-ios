@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Instagram이 이벤트를 회원님의 달력에 동기화할 수 있게 됩니다.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>설정하면 사진을 찍고 동영상을 녹화할 수 있습니다.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>회원님과 다른 사람들이 친구 찾기 등의 기능을 이용하는 데 도움이 됩니다. 회원님의 연락처가 동기화되며 Instagram 서버에 안전하게 저장됩니다.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Instagram에서 빠르고 안전하게 인증하려면 Face ID를 사용하세요.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram은 일부 기능이 작동하도록 하고, 콘텐츠를 개인화하고, 사람들이 장소를 찾을 수 있도록 돕는 등의 서비스를 제공하는 데 이 정보를 활용합니다. 언제든지 휴대폰의 설정에서 변경할 수 있습니다.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram은 일부 기능이 작동하도록 하고, 콘텐츠를 개인화하고, 사람들이 장소를 찾을 수 있도록 돕는 등의 서비스를 제공하는 데 이 정보를 활용합니다. 언제든지 휴대폰의 설정에서 변경할 수 있습니다.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>사운드와 함께 동영상을 녹음할 수 있게 됩니다.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>카메라 롤에 사진과 동영상을 저장하게 됩니다.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>카메라 롤에서 콘텐츠를 공유하고 사진 및 동영상에 관한 다른 기능을 사용할 수 있게 됩니다.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>이렇게 하면 Instagram에서 더 나은 광고 경험을 제공할 수 있습니다.</string>
+</dict>
+</plist>

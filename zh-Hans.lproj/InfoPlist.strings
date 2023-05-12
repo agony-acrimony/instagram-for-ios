@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>这将允许 Instagram 把活动同步到你的日历。</string>
+	<key>NSCameraUsageDescription</key>
+	<string>你可以拍摄照片和视频。</string>
+	<key>NSContactsUsageDescription</key>
+	<string>这将帮助你和其他用户找到好友和更多内容。你的通讯录会同步并安全储存在 Instagram 服务器中。</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>启用面容 ID 即可快速安全地在 Instagram 上验证身份。</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram 使用定位服务来为用户定制内容、帮助用户查找地点，实现更多功能。你可以随时在手机中更改这项设置。</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram 使用定位服务来为用户定制内容、帮助用户查找地点，实现更多功能。你可以随时在手机中更改这项设置。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>你可以录制有声视频。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>你可以把照片和视频保存到相机胶卷。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>允许你分享相机胶卷中的内容，也可以启用照片和视频的其他功能。</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>这可以让 Instagram 为你提供更好的广告体验。</string>
+</dict>
+</plist>

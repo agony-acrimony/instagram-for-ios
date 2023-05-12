@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Bu, Instagram'ın etkinlikleri takviminle senkronize etmesine olanak sağlar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Bu, fotoğraflar çekmene ve videolar kaydetmene olanak sağlar.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Bu senin ve diğerlerinin arkadaşlarını ve daha fazlasını bulmanıza yardımcı olur. Kişilerin senkronize edilecek ve Instagram sunucularında güvenli bir şekilde korunacaktır.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Instagram'da hızlı ve güvenli kimlik doğrulama için Face ID'yi etkinleştir.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram; bazı özelliklerin çalışmasını sağlamak, içerikleri kişiselleştirmek, insanların yerleri bulmasına yardımcı olmak ve daha fazlasını yapmak için bunu kullanır. Bunu daha sonra ne zaman istersen telefon ayarlarından değiştirebilirsin.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram; bazı özelliklerin çalışmasını sağlamak, içerikleri kişiselleştirmek, insanların yerleri bulmasına yardımcı olmak ve daha fazlasını yapmak için bunu kullanır. Bunu daha sonra ne zaman istersen telefon ayarlarından değiştirebilirsin.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Bu, sesli videolar kaydetmene olanak sağlar.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Bu, Film Rulona fotoğraf ve videolar kaydetmene izin verir.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Bu, film rulondan içerik paylaşmana ve fotoğraf ve videolar için diğer özellikleri kullanmana olanak sağlar.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Bu, Instagram'ın sana daha iyi reklam deneyimi sunmasına yardımcı olur.</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Dette vil la Instagram synkronisere hendelser til kalenderen din.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Lar deg ta bilder og spille inn video.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Dette hjelper deg og andre med å finne venner med mer. Kontaktene dine synkroniseres og lagres trygt på Instagrams servere.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Aktiver Face ID for rask og sikker godkjenning på Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram bruker dette til å få enkelte funksjoner til å fungere, gjøre innhold mer personlig, hjelpe folk med å finne steder med mer. Du kan alltid endre dette senere i telefoninnstillingene dine.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram bruker dette til å få enkelte funksjoner til å fungere, gjøre innhold mer personlig, hjelpe folk med å finne steder med mer. Du kan alltid endre dette senere i telefoninnstillingene dine.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Lar deg spille inn videoer med lyd.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Dette lar deg lagre bilder og videoer på kamerarullen.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Dette gir deg mulighet til å dele fra kamerarullen din, og aktiverer andre funksjoner for bilder og videoer.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Dette lar Instagram gi deg en bedre annonseopplevelse.</string>
+</dict>
+</plist>

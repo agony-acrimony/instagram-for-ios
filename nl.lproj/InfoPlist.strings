@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Hiermee synchroniseert Instagram evenementen naar je kalender.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Hiermee kun je foto's maken en video's opnemen.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Dit helpt jou en anderen vrienden te vinden en meer. Je contacten worden gesynchroniseerd en veilig opgeslagen op de servers van Instagram.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Schakel Face ID in voor snelle en veilige verificatie op Instagram.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Instagram gebruikt dit om bepaalde functies te laten werken, inhoud te personaliseren, mensen te helpen dingen te vinden en meer. Je kunt dit altijd later wijzigen via de instellingen van je telefoon.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Instagram gebruikt dit om bepaalde functies te laten werken, inhoud te personaliseren, mensen te helpen dingen te vinden en meer. Je kunt dit altijd later wijzigen via de instellingen van je telefoon.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Hiermee kun je video's met geluid opnemen.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Hiermee kun je foto's en video's opslaan op je filmrol.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Hiermee kun je delen vanaf je filmrol, en worden andere functies voor foto's en video's ingeschakeld.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Hiermee kan Instagram je een betere advertentie-ervaring bieden.</string>
+</dict>
+</plist>
